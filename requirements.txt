@@ -1,6 +1,6 @@
+streamlit
 altair
 pandas
-streamlit
 plotly
 numpy
 openpyxl
